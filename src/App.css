@@ -1,0 +1,22 @@
+.Formulario {
+    max-width: 400px;
+    border-radius: 20px;
+    background-color: #fff;
+    padding: 40px;
+    border: 2px #000 solid;
+}
+.Formulario input {
+    line-height: 40px;
+}
+
+.Listado  {
+    border-radius: 20px;
+    background-color: #fff;
+    padding: 40px;
+    border: 2px #000 solid;
+}
+.Listado img {
+    width: 100px;
+    border-radius: 100%;
+    background-color: #fff;
+}
