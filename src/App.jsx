@@ -52,11 +52,11 @@ const App = () => {
 
     return (
         <>
-            <nav className="p-4 mb-4">
+            <nav className="p-4">
                 <h1><img src="./logo.png" />SushiKat</h1>
             </nav>
 
-            <div className="container">
+            <main className="container my-4">
                 <div className="row">
                     <div className="col-lg-4">
                         <div className="Formulario mx-auto">
@@ -81,7 +81,7 @@ const App = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </main>
         </>
     );
 };
